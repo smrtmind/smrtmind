@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oleh Hvozdetskyi
-- 🕹️ I’m interested in game development, it inspires me.
-- 🎲 I’m currently learning C# / Unity 2D
-- 💞️ I’m looking to collaborate with mentors and like-minded devs
+- 🕹️ I’m interested in game development, it inspires me
+- 🎲 I'm in constant C# / Unity2D/3D learning mode
+- 💞️ I'm looking for job in game development and new opportunities
 - 📫 How to reach me https://www.linkedin.com/in/oleh-hvozdetskyi/
 
 <!---
