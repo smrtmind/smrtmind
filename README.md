@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Oleh Hvozdetskyi
-- 🕹️ I’m interested in game development, it inspires me
+- 👋 Hi, my name is Oleh
+- 🕹️ I’m interested in game development, it inspires me from childhood
 - 🎲 I'm in constant C# / Unity2D/3D learning mode
 - 💞️ I'm looking for job in game development and new opportunities
 - 📫 How to reach me https://www.linkedin.com/in/oleh-hvozdetskyi/
