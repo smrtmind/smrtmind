@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Oleh
 - 🕹️ I’m interested in game development, it inspires me from childhood
-- 🎲 I'm in constant C# / Unity2D/3D learning mode
-- 💞️ I'm looking for job in game development and new opportunities
+- 🎲 Currently I work as Junior Unity Developer (that is why no commits here, not public projects)
+- 💞️ Always open to new opportunities
 - 📫 How to reach me https://www.linkedin.com/in/oleh-hvozdetskyi/
 
 <!---
