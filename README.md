@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Oleh
 - 🕹️ I’m interested in game development, it inspires me from childhood
-- 🎲 Currently I work as Junior Unity Developer (that is why no commits here, not public projects)
+- 🎲 Currently I work as Unity C# Developer (that is why no commits here, NDA projects)
 - 💞️ Always open to new opportunities
 - 📫 How to reach me https://www.linkedin.com/in/oleh-hvozdetskyi/
 
